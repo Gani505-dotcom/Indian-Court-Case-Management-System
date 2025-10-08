@@ -101,11 +101,8 @@ court-case-fetcher/
 │── package.json              # Node.js dependencies  
 
 🚀 Setup & Installation
-1️⃣ Clone Repo
-git clone https://github.com/your-username/court-case-fetcher.git
-cd court-case-fetcher
 
-2️⃣ Backend Setup
+1. Backend Setup
 cd backend
 python -m venv venv
 source venv/bin/activate   # (Linux/Mac)
@@ -118,7 +115,7 @@ Run backend:
 
 python app.py
 
-3️⃣ Frontend Setup
+2. Frontend Setup
 cd frontend
 npm install
 npm start
